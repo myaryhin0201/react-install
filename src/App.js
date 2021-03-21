@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
-
+import MyFirstComponents from './components/MyFirstComponents';
+import SecondComponent from './components/SecondComponent';
+import ThirdComp from './components/ThirdComp';
 function App() {
+  const user = {
+    name: 'Maks',
+    surname: "Yary",
+  }
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Hello react</h1>
+      <MyFirstComponents user = {user}/>
+      <SecondComponent user = {user}/>
+      <ThirdComp>
+         <p>lorem lorem10 lorem.</p>
+      </ThirdComp>
     </div>
   );
 }
