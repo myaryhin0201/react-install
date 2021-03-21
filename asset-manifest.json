@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/myaryhin0201/react-install/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/myaryhin0201/react-install/static/js/main.53b07127.chunk.js",
-    "main.js.map": "/myaryhin0201/react-install/static/js/main.53b07127.chunk.js.map",
-    "runtime-main.js": "/myaryhin0201/react-install/static/js/runtime-main.2f322bc8.js",
-    "runtime-main.js.map": "/myaryhin0201/react-install/static/js/runtime-main.2f322bc8.js.map",
-    "static/js/2.82e8d802.chunk.js": "/myaryhin0201/react-install/static/js/2.82e8d802.chunk.js",
-    "static/js/2.82e8d802.chunk.js.map": "/myaryhin0201/react-install/static/js/2.82e8d802.chunk.js.map",
-    "static/js/3.74f0d9bc.chunk.js": "/myaryhin0201/react-install/static/js/3.74f0d9bc.chunk.js",
-    "static/js/3.74f0d9bc.chunk.js.map": "/myaryhin0201/react-install/static/js/3.74f0d9bc.chunk.js.map",
-    "index.html": "/myaryhin0201/react-install/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/myaryhin0201/react-install/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.82e8d802.chunk.js.LICENSE.txt": "/myaryhin0201/react-install/static/js/2.82e8d802.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/myaryhin0201/react-install/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-install/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-install/static/js/main.53b07127.chunk.js",
+    "main.js.map": "/react-install/static/js/main.53b07127.chunk.js.map",
+    "runtime-main.js": "/react-install/static/js/runtime-main.b3f8c106.js",
+    "runtime-main.js.map": "/react-install/static/js/runtime-main.b3f8c106.js.map",
+    "static/js/2.82e8d802.chunk.js": "/react-install/static/js/2.82e8d802.chunk.js",
+    "static/js/2.82e8d802.chunk.js.map": "/react-install/static/js/2.82e8d802.chunk.js.map",
+    "static/js/3.74f0d9bc.chunk.js": "/react-install/static/js/3.74f0d9bc.chunk.js",
+    "static/js/3.74f0d9bc.chunk.js.map": "/react-install/static/js/3.74f0d9bc.chunk.js.map",
+    "index.html": "/react-install/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-install/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.82e8d802.chunk.js.LICENSE.txt": "/react-install/static/js/2.82e8d802.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-install/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f322bc8.js",
+    "static/js/runtime-main.b3f8c106.js",
     "static/js/2.82e8d802.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.53b07127.chunk.js"
